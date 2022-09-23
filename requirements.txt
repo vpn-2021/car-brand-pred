@@ -1,16 +1,7 @@
 Flask
 Flask-Cors
-google-auth
-google-auth-oauthlib
-google-pasta
-ipykernel
-ipython
-ipython-genutils
-ipywidgets
-jupyter
 matplotlib
 numpy
 pandas
 scikit-learn
 seaborn
-tensorboard
