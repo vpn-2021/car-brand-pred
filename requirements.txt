@@ -16,4 +16,3 @@ seaborn
 tensorboard
 tensorboard-plugin-wit
 tensorflow
-tensorflow-estimator
