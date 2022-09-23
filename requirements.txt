@@ -14,5 +14,3 @@ pandas
 scikit-learn
 seaborn
 tensorboard
-tensorboard-plugin-wit
-tensorflow
