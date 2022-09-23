@@ -86,9 +86,9 @@ six==1.15.0
 sklearn==0.0
 tensorboard==2.2.1
 tensorboard-plugin-wit
-tensorflow==2.2.0
-tensorflow-estimator==2.2.0
-termcolor==1.1.0
+tensorflow
+tensorflow-estimator
+termcolor
 terminado==0.8.3
 testpath==0.4.4
 threadpoolctl==2.0.0
