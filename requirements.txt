@@ -13,7 +13,6 @@ numpy
 pandas
 scikit-learn
 seaborn
-sklearn
 tensorboard
 tensorboard-plugin-wit
 tensorflow
