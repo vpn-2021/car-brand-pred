@@ -10,7 +10,8 @@ ipywidgets
 jupyter
 matplotlib
 numpy
-pandasscikit-learn
+pandas
+scikit-learn
 seaborn
 sklearn
 tensorboard
